@@ -1,0 +1,12 @@
+Type: Package
+Title: Estimating EM-ML Parameters from Regime Shift Models with Endogenous Switching
+Version: 0.2.0
+Author: Tobias Gummersbach
+Maintainer: Tobias Gummersbach <Tobias.Gummersbach@gmx.de>
+Description: Estimates paramters from regime shift models that feature endogenous switching dynamics More about what it does. Some More here (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp (>= 0.12.18)
+LinkingTo: Rcpp

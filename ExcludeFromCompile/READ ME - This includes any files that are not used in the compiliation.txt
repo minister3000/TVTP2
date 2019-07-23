@@ -1,0 +1,4 @@
+Note this folder has to be entered in file '.Rbuildignore' to be ignored in the build-process.
+
+information on this functionality:
+http://r-pkgs.had.co.nz/package.html
