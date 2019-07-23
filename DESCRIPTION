@@ -1,3 +1,4 @@
+Package: TVTP2
 Type: Package
 Title: Estimating EM-ML Parameters from Regime Shift Models with Endogenous Switching
 Version: 0.2.0
